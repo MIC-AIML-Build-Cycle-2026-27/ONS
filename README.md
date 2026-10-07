@@ -1,11 +1,14 @@
-# Project Name
+# ONS
 
-> One or two sentences describing what this project does and who it is for.
+**Operations Nervous System**
+
+> An AI system for freight operations that works with shipping documents and carrier data to track shipments, identify risks, and help operations teams act before problems occur.
 
 Part of the [MIC AIML Build Cycle 2026-27](https://github.com/MIC-AIML-Build-Cycle-2026-27), the AIML Department's project cycle at Microsoft Innovation Club.
 
 | | |
 |---|---|
+| **Project** | 1 |
 | **Status** | Foundation |
 | **Current milestone** | Review 1 (31 Oct – 3 Nov 2026) |
 | **Project Leads** | `<add GitHub username>`, `<add GitHub username>` |
@@ -16,7 +19,9 @@ Part of the [MIC AIML Build Cycle 2026-27](https://github.com/MIC-AIML-Build-Cyc
 
 ## Overview
 
-TBD. A short paragraph explaining the project in plain language. Someone outside the team should understand what you are building after reading it.
+An AI system for freight operations that works with shipping documents and carrier data to track shipments, identify risks, and help operations teams act before problems occur.
+
+TBD: expand this into a short plain-language explanation once the team has finalised scope.
 
 ## Problem Statement
 
@@ -72,8 +77,8 @@ Update this tree as the project grows. Add folders such as `experiments/`, `eval
 ### Installation
 
 ```bash
-git clone https://github.com/MIC-AIML-Build-Cycle-2026-27/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/MIC-AIML-Build-Cycle-2026-27/ONS.git
+cd ONS
 # TBD: install dependencies
 ```
 
